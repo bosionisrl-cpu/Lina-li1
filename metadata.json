@@ -1,0 +1,8 @@
+{
+  "name": "AI-powered Commerce Admin",
+  "description": "An AI-powered luxury SaaS platform featuring a Merchant Admin for stores and a high-tier Super Admin AI Control Center to orchestrate user tenants, LLM rate limits, BullMQ worker streams, and real-time event trace logs.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
